@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,kBACE,kBACF,CAEA,iBACE,kBACF","file":"style.8b36feeb.css","sourceRoot":"..\\src","sourcesContent":[".blocks__distance {\n  margin-bottom: 20px;\n}\n\n.input__distance {\n  margin-bottom: 10px;\n}\n"]}
